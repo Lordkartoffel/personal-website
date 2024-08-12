@@ -10,7 +10,7 @@ Route::get('/', function () {
 
 //Ressource Page
 Route::get('/ressources', function () {
-    return view('downlaod');
+    return view('ressources');
 });
 
 //Contact Page
