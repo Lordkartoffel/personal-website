@@ -3,7 +3,7 @@
     <div class="page-wrapper">
         <div class="nav-wrapper">
             <nav class="navbar">
-                <img src="{{ asset('images/JM_Logo.svg') }}" alt="Personal Logo">
+                <img src="{{ asset('images/JM_logo.svg') }}" alt="Personal Logo">
                 <div class="menu-toggle" id="mobile-menu">
                     <span class="bar"></span>
                     <span class="bar"></span>
