@@ -1,5 +1,5 @@
 <x-layout>
-
+    <x-slot:siteTitle>Home</x-slot>
         <link href="{{ asset('css/home.css') }}" rel="stylesheet">
 
         <div class="wrapper"> 
