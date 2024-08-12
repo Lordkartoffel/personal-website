@@ -1,7 +1,7 @@
 <div>
+    <link href="{{ asset('css/navigationBar.css') }}" rel="stylesheet">
     <div class="page-wrapper">
         <div class="nav-wrapper">
-            <div class="grad-bar"></div>
             <nav class="navbar">
                 <img src="{{ asset('images/JM_Logo.svg') }}" alt="Personal Logo">
                 <div class="menu-toggle" id="mobile-menu">
