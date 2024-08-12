@@ -8,8 +8,8 @@ Route::get('/', function () {
     return view('home');
 });
 
-//Download Page
-Route::get('/download', function () {
+//Ressource Page
+Route::get('/ressources', function () {
     return view('downlaod');
 });
 
