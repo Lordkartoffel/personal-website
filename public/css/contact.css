@@ -1,0 +1,14 @@
+.contactWrapper {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+}
+
+h2 {
+    color: #E5E5E5;
+    text-align: left;
+}
+
+.emailForm {
+    grid-column: 2;
+}
