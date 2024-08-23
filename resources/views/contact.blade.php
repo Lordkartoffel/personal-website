@@ -1,9 +1,4 @@
-@extends('components.layout')
-
-@section('siteTitle', 'Contact')
-
-@section('contact')
-
+<div>
     <link href="{{ asset('css/contact.css') }}" rel="stylesheet">
     
     <h1>GET IN TOUCH</h1>
@@ -15,5 +10,6 @@
     </div>
 
     @include('components.email-form')
+</div>
+    
 
-@endsection

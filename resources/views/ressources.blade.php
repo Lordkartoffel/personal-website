@@ -1,3 +1,1 @@
-<x-layout>
-    Ressources
-</x-layout>
+Ressources

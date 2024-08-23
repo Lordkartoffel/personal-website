@@ -1,3 +1,1 @@
-<x-layout>
-    About
-</x-layout>
+About

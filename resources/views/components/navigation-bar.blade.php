@@ -11,9 +11,9 @@
                 </div>
                 <ul class="nav">
                     <li class="nav-item"><a href="#homeSite">Home</a></li>
-                    <li class="nav-item"><a href="/#about">About</a></li>
+                    <li class="nav-item"><a href="#about">About</a></li>
                     <li class="nav-item"><a href="#contactSite">Contact</a></li>
-                    <li class="nav-item"><a href="/#ressources">Ressources</a></li>
+                    <li class="nav-item"><a href="#ressources">Ressources</a></li>
                 </ul>
             </nav>
         </div>
