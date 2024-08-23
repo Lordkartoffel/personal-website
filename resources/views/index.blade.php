@@ -12,11 +12,15 @@
 <body>
 
     <div class="siteWrapper">
+
         <x-navigation-bar/>
-        @yield('contact')
+        <x-home/>
+        <x-about/>
+        <x-ressources/>
+        <x-contact/>
+
     </div>
-    
-    
+       
     <script src="{{ asset('js/navigationBar.js') }}"></script>
 </body>
 </html>
