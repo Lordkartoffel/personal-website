@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> @yield('siteTitle') - Jannik Meier</title>
+    <title>Jannik Meier</title>
 
     <link href="{{ asset('css/generalStyling.css') }}" rel="stylesheet">
 
