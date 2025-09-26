@@ -4,6 +4,13 @@
 <div class="flex items-center justify-center py-12 px-4 sm:px-6 lg:px-8">
     <div class="max-w-4xl mx-auto">
         <div class="text-center">
+            <!-- Profile Image -->
+            <div class="mb-8">
+                <div class="mx-auto w-48 h-48 rounded-full bg-gradient-to-br from-blue-500 to-purple-600 flex items-center justify-center text-white text-6xl font-bold shadow-lg">
+                    YN
+                </div>
+            </div>
+
             <!-- Introduction -->
             <h1 class="text-4xl md:text-6xl font-bold text-gray-900 dark:text-white mb-6">
                 Hi, I'm <span class="text-blue-600 dark:text-blue-400">Jannik Meier</span>
