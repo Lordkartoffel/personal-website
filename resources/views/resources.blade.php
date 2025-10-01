@@ -11,6 +11,12 @@
             <h1 class="text-4xl font-bold text-gray-900 dark:text-white mb-4">Resources</h1>
             <p class="text-xl text-gray-600 dark:text-gray-300">Download my documents and certificates</p>
         </div>
+
+        <!-- Documents Grid -->
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            
+        </div>
+
     </div>
 </div>
 @endsection
