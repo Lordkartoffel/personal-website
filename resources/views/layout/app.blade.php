@@ -68,5 +68,10 @@
             </div>
         </div>
     </nav>
+
+    <!-- Main Content -->
+    <main class="mb-auto">
+        @yield('content')
+    </main>
 </body>
 </html>
