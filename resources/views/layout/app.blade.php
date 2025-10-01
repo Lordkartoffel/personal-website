@@ -82,5 +82,25 @@
             </div>
         </div>
     </footer>
+
+    <!-- JavaScript for mobile menu -->
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const mobileMenuButton = document.querySelector('.mobile-menu-button');
+            const mobileMenu = document.querySelector('.mobile-menu');
+
+            mobileMenuButton.addEventListener('click', function() {
+                mobileMenu.classList.toggle('hidden');
+            });
+
+            // Auto-hide flash messages
+            setTimeout(function() {
+                const flashMessages = document.querySelectorAll('.fixed');
+                flashMessages.forEach(function(message) {
+                    message.style.display = 'none';
+                });
+            }, 5000);
+        });
+    </script>
 </body>
 </html>
