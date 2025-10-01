@@ -111,6 +111,64 @@
                 </div>
             </div>
         </div>
+
+        <!-- Experience Timeline -->
+        <div class="bg-white dark:bg-gray-800 rounded-lg shadow-lg p-8 mb-8">
+            <h2 class="text-2xl font-bold text-gray-900 dark:text-white mb-6">Work Experience</h2>
+            
+            <div class="space-y-6">
+                <div class="border-l-4 border-blue-600 pl-6">
+                    <div class="flex flex-col md:flex-row md:items-center md:justify-between mb-2">
+                        <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Junior Software Developer</h3>
+                        <span class="text-sm text-gray-500 dark:text-gray-400">2024 - Present</span>
+                    </div>
+                    <p class="text-gray-600 dark:text-gray-300 mb-2">Delta Software Technology GmbH</p>
+                    <p class="text-gray-600 dark:text-gray-300">
+                        Lead development of enterprise web applications using Laravel and Vue.js. 
+                        Mentored junior developers and implemented best practices for code quality.
+                    </p>
+                </div>
+
+                <div class="border-l-4 border-blue-600 pl-6">
+                    <div class="flex flex-col md:flex-row md:items-center md:justify-between mb-2">
+                        <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Trainee</h3>
+                        <span class="text-sm text-gray-500 dark:text-gray-400">2021 - 2024</span>
+                    </div>
+                    <p class="text-gray-600 dark:text-gray-300 mb-2">Apprenticeship</p>
+                    <p class="text-gray-600 dark:text-gray-300">
+                    Pivoting towards my true passion, I immersed myself in the world of web development during the start of my second apprenticeship. 
+                    From PHP, JS, to CSS, I not only embraced the digital landscape but also improved my professional communication skills within my company.
+                    </p>
+                </div>
+
+                <div class="border-l-4 border-blue-600 pl-6">
+                    <div class="flex flex-col md:flex-row md:items-center md:justify-between mb-2">
+                        <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Student</h3>
+                        <span class="text-sm text-gray-500 dark:text-gray-400">2020 - 2021</span>
+                    </div>
+                    <p class="text-gray-600 dark:text-gray-300 mb-2">Technical College</p>
+                    <p class="text-gray-600 dark:text-gray-300">
+                    After I received my German high school diploma, I was unsure about what to do next.
+                    I enjoy working with my hands, but I also like programming.
+                    At first, I decided to study wood technology, hoping it would be a good fit.
+                    However, I soon realized that it wasn’t the right path for me.
+                    </p>
+                </div>
+
+                <div class="border-l-4 border-blue-600 pl-6">
+                    <div class="flex flex-col md:flex-row md:items-center md:justify-between mb-2">
+                        <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Student</h3>
+                        <span class="text-sm text-gray-500 dark:text-gray-400">2007 - 2020</span>
+                    </div>
+                    <p class="text-gray-600 dark:text-gray-300 mb-2">School</p>
+                    <p class="text-gray-600 dark:text-gray-300">
+                    Mastering the intricacies of education within the renowned German school system laid the foundation for my future pursuits.
+                    The journey through this academic landscape equipped me with the knowledge and discipline to face the challenges ahead.
+                    </p>
+                </div>
+            </div>
+        </div>
+        
     </div>
 </div>
 @endsection 
