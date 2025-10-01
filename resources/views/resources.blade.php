@@ -150,6 +150,31 @@
                 </a>
             </div>
         </div>
+
+        <!-- Additional Information -->
+        <div class="mt-12 bg-blue-50 dark:bg-blue-900/20 rounded-lg p-6">
+            <h2 class="text-xl font-semibold text-gray-900 dark:text-white mb-4">Important Notes</h2>
+            <ul class="space-y-2 text-gray-600 dark:text-gray-300">
+                <li class="flex items-start space-x-2">
+                    <svg class="w-5 h-5 text-blue-600 dark:text-blue-400 mt-0.5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                    </svg>
+                    <span>All documents are in PDF format for easy viewing and printing</span>
+                </li>
+                <li class="flex items-start space-x-2">
+                    <svg class="w-5 h-5 text-blue-600 dark:text-blue-400 mt-0.5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                    </svg>
+                    <span>Certificates are verified and can be confirmed with issuing organizations</span>
+                </li>
+                <li class="flex items-start space-x-2">
+                    <svg class="w-5 h-5 text-blue-600 dark:text-blue-400 mt-0.5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                    </svg>
+                    <span>Feel free to contact me if you need any additional information</span>
+                </li>
+            </ul>
+        </div>
     </div>
 </div>
 @endsection
