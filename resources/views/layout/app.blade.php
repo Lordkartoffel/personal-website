@@ -73,5 +73,14 @@
     <main class="mb-auto">
         @yield('content')
     </main>
+
+    <!-- Footer -->
+    <footer class="bg-white dark:bg-gray-800 border-t border-gray-200 dark:border-gray-700">
+        <div class="max-w-7xl mx-auto py-8 px-4 sm:px-6 lg:px-8">
+            <div class="text-center text-gray-600 dark:text-gray-400">
+                <p>&copy; {{ date('Y') }} Jannik Meier. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
 </body>
 </html>
